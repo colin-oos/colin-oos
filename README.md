@@ -38,8 +38,5 @@
   </a>
 </p>
 <br>
-<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=colin-oos&show_icons=true&locale=en" alt="colin-oos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=colin-oos&" alt="colin-oos" /></p>
