@@ -32,3 +32,4 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="colhoop" />
   </a>
 </p>
+<p dir="auto"><a href="https://github.com/sponsors/colin-oos/"><img alt="Become a sponser" title="Sponsorship Tiers" src="https://camo.githubusercontent.com/ca99184a2317f22db42bce92847dbb3656422ee3e4ec2b84724453f202e72976/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f2d4d6f726525323041626f75742532304d7925323053706f6e736f727368697025323054696572732d3146323232453f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465266c6f676f3d6c696e6b2d65787465726e616c" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Become%20a%20Sponser-1F222E?style=for-the-badge&amp;logoColor=white&amp;logo=link-external" style="max-width: 100%;"></a></p>
