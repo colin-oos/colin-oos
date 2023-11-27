@@ -37,6 +37,3 @@
     <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="colhoop" />
   </a>
 </p>
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=colin-oos&show_icons=true&locale=en" alt="colin-oos" /></p>
