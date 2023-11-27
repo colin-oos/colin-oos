@@ -28,12 +28,7 @@
 
 <h3 align="left">Support:</h3>
 <p>
-  <p>
   <a href="https://www.buymeacoffee.com/colhoop"> 
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="colhoop" />
-  </a>
-  </p>
-  <a href="https://ko-fi.com/colhoop"> 
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="colhoop" />
   </a>
 </p>
