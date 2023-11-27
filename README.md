@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=colin-oos&label=Profile%20views&color=0e75b6&style=flat" alt="colin-oos" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=colin-oos" alt="colin-oos" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/colhoop" target="blank"><img src="https://img.shields.io/twitter/follow/colhoop?logo=twitter&style=for-the-badge" alt="colhoop" /></a> </p>
 
 - 🔭 I’m currently working on [react-video-analytics](https://github.com/oos-studio/react-video-analytics)
@@ -41,8 +39,6 @@
 </p>
 <br>
 <br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=colin-oos&show_icons=true&locale=en&layout=compact" alt="colin-oos" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=colin-oos&show_icons=true&locale=en" alt="colin-oos" /></p>
 
