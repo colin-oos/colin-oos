@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react, node.js, GraphQL, AWS**
 
-- 📫 How to reach me **colin@oos-studio.com**
+- 📫 How to reach me **colhoop@me.com**
 
 - ⚡ Fun fact **I like to sing and play guitar**
 
