@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [react-video-analytics](https://github.com/oos-studio/react-video-analytics)
 
-- 🌱 I’m currently learning **AWS AI services**
+- 🌱 I’m currently learning **LLM and RAG systems**
 
 - 💬 Ask me about **react, node.js, GraphQL, AWS**
 
